@@ -10,6 +10,9 @@ import "primereact/resources/primereact.min.css"; // PrimeReact CSS
 import "primeicons/primeicons.css";
 import "primeflex/primeflex.css";
 
+import '@blueprintjs/core/lib/css/blueprint.css';
+
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
